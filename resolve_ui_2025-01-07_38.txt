@@ -1,0 +1,1 @@
+Resolve UI components for client (complex)
