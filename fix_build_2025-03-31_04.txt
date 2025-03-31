@@ -1,0 +1,1 @@
+Fix build pipeline for middleware (quick) - Implemented a new feature to enhance build pipeline.
