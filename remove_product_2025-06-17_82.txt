@@ -1,0 +1,1 @@
+Remove product search for session (urgent) - Implemented a new feature to enhance product search.
