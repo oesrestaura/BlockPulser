@@ -1,0 +1,1 @@
+Resolve database queries for security (advanced)
