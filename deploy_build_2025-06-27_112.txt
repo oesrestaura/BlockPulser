@@ -1,0 +1,1 @@
+Deploy build pipeline for query (easy) - Implemented a new feature to enhance build pipeline.
