@@ -1,0 +1,1 @@
+Improve role management for synchronization (minor) - Implemented a new feature to enhance role management.
