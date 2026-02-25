@@ -1,4 +1,4 @@
-# 🚀 BlockPulse
+# 🚀 BlockPulser
 
 BlockPulse is a lightweight blockchain analytics tool that monitors wallet activity and detects large suspicious transactions.
 
